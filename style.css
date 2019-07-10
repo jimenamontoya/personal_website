@@ -1,0 +1,29 @@
+/* HOMEPAGE STYLES*/
+body {
+  background-color: #80A3FF  
+    }
+
+main {
+  
+  max-width: 600px;
+  margin: auto;
+  padding: 30px 
+}
+    
+    #title {
+           background-image:
+  url('https://images.unsplash.com/photo-1556745757-8d76bdb6984b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1332&q=80');
+      background-size:cover;
+        padding:10px;
+          color: white;
+      font-family:"arial","verdana")
+             
+      
+       }
+
+.fotofinal {
+  width: 300px
+
+}
+
+}
